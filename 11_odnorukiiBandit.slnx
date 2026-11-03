@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="11_odnorukiiBandit/11_odnorukiiBandit.vcxproj" Id="e2ad1fe8-5ff8-4cc8-ac8a-ae84320d4c33" />
+</Solution>
